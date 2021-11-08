@@ -1,0 +1,1 @@
+Project was to build a basic landing page from scratch and style it properly. 
